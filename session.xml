@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<NotepadPlus>
+    <Session activeView="0">
+        <mainView activeIndex="1">
+            <File firstVisibleLine="1144" xOffset="40" scrollWidth="3420" startPos="0" endPos="0" selMode="0" offset="0" wrapCount="1" lang="XML" encoding="1252" userReadOnly="no" filename="C:\Users\Defu\AppData\Roaming\Notepad++\themes\TwoDark.xml" backupFilePath="" originalFileLastModifTimestamp="914932644" originalFileLastModifTimestampHigh="31011948" tabColourId="-1" mapFirstVisibleDisplayLine="-1" mapFirstVisibleDocLine="-1" mapLastVisibleDocLine="-1" mapNbLine="-1" mapHigherPos="-1" mapWidth="-1" mapHeight="-1" mapKByteInDoc="512" mapWrapIndentMode="-1" mapIsWrap="no" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="5280" startPos="0" endPos="0" selMode="0" offset="0" wrapCount="1" lang="XML" encoding="-1" userReadOnly="no" filename="C:\Users\Defu\AppData\Roaming\Notepad++\config.xml" backupFilePath="" originalFileLastModifTimestamp="1374276110" originalFileLastModifTimestampHigh="31011949" tabColourId="-1" mapFirstVisibleDisplayLine="-1" mapFirstVisibleDocLine="-1" mapLastVisibleDocLine="-1" mapNbLine="-1" mapHigherPos="-1" mapWidth="-1" mapHeight="-1" mapKByteInDoc="512" mapWrapIndentMode="-1" mapIsWrap="no" />
+        </mainView>
+        <subView activeIndex="0" />
+    </Session>
+</NotepadPlus>
